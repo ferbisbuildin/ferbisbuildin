@@ -33,3 +33,13 @@ Building reliable AI-powered products with clear interfaces, secure defaults, au
 
 - [LinkedIn](https://www.linkedin.com/in/vardan-agarwal-201750199/)
 - [Email](mailto:vardanagarwal11@gmail.com)
+
+
+## Contribution graph
+
+<!-- Breakout contribution graph — generated from real GitHub activity -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferbisbuildin/ferbisbuildin/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferbisbuildin/ferbisbuildin/output/breakout-contribution-graph.svg">
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/ferbisbuildin/ferbisbuildin/output/breakout-contribution-graph.svg">
+</picture>
